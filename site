@@ -1,0 +1,24 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+    <title>Service Desk</title>
+  </head>
+
+  <body>
+        <h3> 
+           <b>Bem vindo ao Service Desk</b>
+        </h3>
+        
+        <p>
+            Site montado para explicar sobre as funções de um Service Desk
+        </p>
+        
+        <img src="sd.jpg" alt="Image" height="250" width="250"/>
+        <p>O Service Desk é uma evolução do Help Desk. Em tradução livre, podemos dizer que é um “balcão de atendimento”, e, portanto, é um canal onde concentra as chamadas dos usuários, centralizando todas as demandas em um único lugar.
+            Uma pesquisa realizada pela American Express, empresa de serviços financeiros dos EUA, mostra que 60% dos consumidores já desistiram de um negócio por causa de um atendimento ruim.
+            Se você não quer isso para sua empresa, vale a pena investir em tecnologias de suporte. Nesse artigo, você vai aprender o que é o service desk, como implementá-lo no seu negócio e quais as vantagens de adotar esse tipo de tecnologia.</p> 
+        <p>Para mais informações, acesse o link abaixo e entre em contato com um de nossos analistas:
+            <a href="https://web.whatsapp.com">whatsapp</a></p>
+         
+  </body>
+</html>
